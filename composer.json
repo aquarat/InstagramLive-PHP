@@ -1,5 +1,5 @@
 {
     "require": {
-      "adrifkat/instagram-api": "^4.1"
+      "adrifkat/instagram-api": "^1.0"
     }
 }
